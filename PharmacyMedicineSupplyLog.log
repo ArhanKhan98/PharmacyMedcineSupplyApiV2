@@ -87,3 +87,91 @@ INFO  07:43:11 Hosting environment: Development
 INFO  07:43:11 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
 INFO  07:43:11 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
 INFO  07:44:05  Http GetSupplies request Initiated
+INFO  09:22:21 Application started. Press Ctrl+C to shut down.
+INFO  09:22:21 Application started. Press Ctrl+C to shut down.
+INFO  09:22:21 Hosting environment: Development
+INFO  09:22:21 Hosting environment: Development
+INFO  09:22:21 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  09:22:21 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  09:23:47  Http GetSupplies request Initiated
+INFO  09:24:02  Http GetSupplies request Initiated
+INFO  09:24:09  Http GetSupplies request Initiated
+ERROR 09:24:09 Null values passed to GetSupplies Method
+INFO  09:24:20  Http GetSupplies request Initiated
+INFO  09:24:26  Http GetSupplies request Initiated
+INFO  03:56:17 Application started. Press Ctrl+C to shut down.
+INFO  03:56:17 Application started. Press Ctrl+C to shut down.
+INFO  03:56:17 Hosting environment: Development
+INFO  03:56:17 Hosting environment: Development
+INFO  03:56:17 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  03:56:17 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  03:56:46  Http GetSupplies request Initiated
+INFO  03:56:46 Http GetSupplies request forAspirinwith a demand count of100
+ERROR 03:56:51  Http GetSupplies encountered an Excpetion :No connection could be made because the target machine actively refused it.
+INFO  03:57:40  Http GetSupplies request Initiated
+INFO  03:57:40 Http GetSupplies request forAspirinwith a demand count of100
+ERROR 03:57:43  Http GetSupplies encountered an Excpetion :No connection could be made because the target machine actively refused it.
+INFO  03:58:47 Application started. Press Ctrl+C to shut down.
+INFO  03:58:47 Application started. Press Ctrl+C to shut down.
+INFO  03:58:47 Hosting environment: Development
+INFO  03:58:47 Hosting environment: Development
+INFO  03:58:47 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  03:58:47 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  03:59:05  Http GetSupplies request Initiated
+INFO  03:59:05 Http GetSupplies request forAspirinwith a demand count of100
+ERROR 03:59:08  Http GetSupplies encountered an Excpetion :No connection could be made because the target machine actively refused it.
+INFO  04:03:44 Application started. Press Ctrl+C to shut down.
+INFO  04:03:44 Application started. Press Ctrl+C to shut down.
+INFO  04:03:44 Hosting environment: Development
+INFO  04:03:44 Hosting environment: Development
+INFO  04:03:44 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  04:03:44 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  04:04:02  Http GetSupplies request Initiated
+INFO  04:04:02 Http GetSupplies request forApspirin with a demand count of 100
+ERROR 04:04:05  Http GetSupplies encountered an Excpetion :No connection could be made because the target machine actively refused it.
+INFO  05:25:33 Application started. Press Ctrl+C to shut down.
+INFO  05:25:33 Application started. Press Ctrl+C to shut down.
+INFO  05:25:33 Hosting environment: Development
+INFO  05:25:33 Hosting environment: Development
+INFO  05:25:33 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  05:25:33 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  05:25:58  Http GetSupplies request Initiated
+INFO  05:25:58 Http GetSupplies request forAspirin with a demand count of 100
+ERROR 05:26:01  Http GetSupplies encountered an Excpetion :No connection could be made because the target machine actively refused it.
+INFO  05:31:21 Application started. Press Ctrl+C to shut down.
+INFO  05:31:21 Application started. Press Ctrl+C to shut down.
+INFO  05:31:21 Hosting environment: Development
+INFO  05:31:21 Hosting environment: Development
+INFO  05:31:21 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  05:31:21 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  05:31:43  Http GetSupplies request Initiated
+INFO  05:31:43 Http GetSupplies request forAspirin with a demand count of 100
+INFO  05:54:23 Application started. Press Ctrl+C to shut down.
+INFO  05:54:24 Application started. Press Ctrl+C to shut down.
+INFO  05:54:24 Hosting environment: Development
+INFO  05:54:24 Hosting environment: Development
+INFO  05:54:24 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  05:54:24 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  06:04:36  Http GetSupplies request Initiated
+INFO  06:04:36 Http GetSupplies request forAspirin with a demand count of 100
+INFO  06:04:51  Http GetSupplies response returned
+INFO  06:04:51  Http GetSupplies Distribution : Max Pharmacy Has to be supplied 25 of Aspirin
+INFO  06:04:51  Http GetSupplies Distribution : Appolo Pharmacy Has to be supplied 25 of Aspirin
+INFO  06:04:51  Http GetSupplies Distribution : Synergy Pharmacy Has to be supplied 25 of Aspirin
+INFO  06:04:51  Http GetSupplies Distribution : GoodWill Pharmacy Has to be supplied 25 of Aspirin
+INFO  06:42:17 Application started. Press Ctrl+C to shut down.
+INFO  06:42:17 Application started. Press Ctrl+C to shut down.
+INFO  06:42:17 Hosting environment: Development
+INFO  06:42:17 Hosting environment: Development
+INFO  06:42:17 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  06:42:17 Content root path: C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi
+INFO  06:42:46  Http GetSupplies request Initiated 
+INFO  06:42:46 Http GetSupplies request forAspirin with a demand count of 100
+INFO  06:42:46  Http GetSupplies request Initiated in MedicineSupplyRepository for Aspirin with demand count 100
+INFO  06:42:48  Http GetSupplies request Initiated for the Medicine Api
+INFO  06:42:48  Http GetSupplies data recieved from the Stock Api
+INFO  06:42:49  Http GetSupplies response returned
+INFO  06:42:49  Http GetSupplies Distribution : Max Pharmacy Has to be supplied 25 of Aspirin
+INFO  06:42:49  Http GetSupplies Distribution : Appolo Pharmacy Has to be supplied 25 of Aspirin
+INFO  06:42:49  Http GetSupplies Distribution : Synergy Pharmacy Has to be supplied 25 of Aspirin
+INFO  06:42:49  Http GetSupplies Distribution : GoodWill Pharmacy Has to be supplied 25 of Aspirin
