@@ -103,6 +103,7 @@ C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi\bin\Debug\netcoreapp3.1\ru
 C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyApi.csprojAssemblyReference.cache
 C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyApi.csproj.CoreCompileInputs.cache
 C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyApi.MvcApplicationPartsAssemblyInfo.cache
@@ -115,4 +116,3 @@ C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi\obj\Debug\netcoreapp3.1\st
 C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyApi.dll
 C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyApi.pdb
 C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyApi.genruntimeconfig.cache
-C:\Users\com 1\source\repos\PharmacyMedicineSupplyApi\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyApi.csprojAssemblyReference.cache

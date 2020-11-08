@@ -14,7 +14,7 @@ namespace PharmacyMedicineSupplyApi.Respository
 
         public async Task<List<PharmacyMedicineSupply>> GetSupplies(string medicineName,int demand)
         {
-            _log4net.Info(" Http GetSupplies request Initiated in MedicineSupplyRepository for " + medicineName + " with demand count " + demand);
+            _log4net.Info("GetSupplies request Initiated in MedicineSupplyRepository for " + medicineName + " with demand count " + demand);
             //List of Supply to be sent
             List<PharmacyMedicineSupply> supplies = new List<PharmacyMedicineSupply>();
             var stock = new List<MedicineStock>();
@@ -24,16 +24,16 @@ namespace PharmacyMedicineSupplyApi.Respository
                 {
                     httpclient.BaseAddress = new Uri("https://localhost:44366/");
                     HttpResponseMessage res = await httpclient.GetAsync("MedicineStockInformation");
-                    _log4net.Info(" Http GetSupplies request Initiated for the Medicine Api");
+                    _log4net.Info("GetSupplies request Initiated for the Medicine Api");
                     if (res.IsSuccessStatusCode)
                     {
-                        _log4net.Info(" Http GetSupplies data recieved from the Stock Api");
+                        _log4net.Info("GetSupplies data recieved from the Stock Api");
                         var result = res.Content.ReadAsStringAsync().Result;
                         stock = JsonConvert.DeserializeObject<List<MedicineStock>>(result);
                     }
                     else
                     {
-                        _log4net.Error(" Http GetSupplies no data recieved from the Stock Api");
+                        _log4net.Error("GetSupplies no data recieved from the Stock Api");
                         return null;
                     }
                 }
@@ -84,7 +84,7 @@ namespace PharmacyMedicineSupplyApi.Respository
             }
             catch(Exception ex)
             {
-                _log4net.Error(" Http GetSupplies Could not Connect to the Medicine Stock Api"+ex.Message);
+                _log4net.Error("GetSupplies Could not Connect to the Medicine Stock Api"+ex.Message);
             }
             return supplies;
         }
